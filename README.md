@@ -13,7 +13,7 @@ This is a beginner-level project focused on improving the performance and securi
 The system booted faster and performed more efficiently after maintenance.
 
 ## Report
-See the included `Report.docx` for table of steps, screenshots, and a reflection summary.
+See the included `Windows 11 PC Maintenance Project.pdf` for table of steps, screenshots, and a reflection summary.
 
 ---
 
